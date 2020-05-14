@@ -777,6 +777,9 @@
   .timeline > li p {
     margin: 0;
   }
+  .achievements{
+      list-style-type: circle;
+  }
   
   /* Tags */
   .tags.small {
